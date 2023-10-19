@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Firefox Docs
+
+nav:
+  - 'index.md'
+  - 'style-guide.md'
+
+theme:
+  name: readthedocs
