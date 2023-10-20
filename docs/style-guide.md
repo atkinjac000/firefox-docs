@@ -1,14 +1,117 @@
-<<<<<<< HEAD
-hello world
-
-=======
 # Style Guide
 
 ## Typefaces
-**Bold**
-*Italic*
+
+*    # Heading 1 : 
+    * HTML Tag: `<h1>`
+    * Markdown Tag: `# Heading 1`
+    * color: `rgb(64, 64, 64)`
+    * font-family: `Roboto Slab,ff-tisa-web-pro, Georgia, Arial, sans-serif`
+    * font-size: `28px`
+    * font-weight: `700`
+
+        
+*   ## Heading 2 : 
+    * HTML Tag: `<h2>`
+    * Markdown Command: `## Heading 2`
+    * color: `rgb(64, 64, 64);`
+    * font-family: `Roboto Slab, ff-tisa-web-pro, Georgia, Arial, sans-serif;`
+    * font-size: `24px;`
+    * font-weight: `700`
+
+*   ### Heading 3 : 
+    * HTML tag: `<h3>`
+    * Markdown command:  `### Heading 3`
+    * color: `rgb(64, 64, 64);`
+    * font-family: `Roboto Slab,ff-tisa-web-pro Georgia, Arial, sans-serif;`
+    * font-size: `20px;`
+    * font-weight: `700`
+
+* Normal Text : 
+    * HTMl Tag: `<p>`
+    * Markdown Command: `None`
+    * color: `rgb(64, 64, 64);`
+    * font-family: `Lato, proxima-nova, Helvetica Neue, Arial, sans-serif;`
+    * font-size: `16px;`
+    * font-weight: `400`
+
+*   **Bold** : 
+    * HTML Tag: `<strong> `
+    * Markdown Command: `**bold**`
+    * color: `rgb(64, 64, 64);`
+    * font-family: `Lato, proxima-nova, Helvetica Neue, Arial, sans-serif;`
+    * font-size: `16px;`
+    * font-weight: `700`
+    
+
+*   *Italic* : 
+    * HTML Tag: `<em>`
+    * Markdown Command: `*Italic*`
+    * color: `rgb(64, 64, 64);`
+    * font-family: `Lato, proxima-nova, Helvetica Neue, Arial, sans-serif;`
+    * font-size: `16px;`
+    * font-weight: `400`
 
 ## Colors
+* ### Main Theme 
+    <svg height="100" width="100">
+        <circle cx="40" cy="50" r="40" fill="#2980B9" >
+    </svg>
+
+    **Theme Blue**
+
+    * To be used only in the header bar of the website
+    * Hex: "#2980B9"
+
+    <svg height="100" width="100">
+        <circle cx="40" cy="50" r="40" fill="#343131" >
+    </svg>
+
+    **Theme Dark Gray**
+
+    * To be used only in the navigation component of the website
+    * Hex: "#343131"
+
+    <svg height="100" width="100">
+        <circle cx="40" cy="50" r="40" stroke="#343131" stroke-width="1" fill="#FCFCFC" >
+    </svg>
+
+    **Theme White**
+
+    * To be used only for the background of pages
+    * Hex: "#FCFCFC"
+
+
+* ### Secondary Theme 
+
+    <svg height="100" width="100">
+        <circle cx="40" cy="50" r="40" fill="#EFEFEF" >
+    </svg>
+
+    **Secondary Gray**
+
+    * To be used only for the background of secondary components of pages
+    * Hex: "#EFEFEF"
+
+
+    <svg height="100" width="100">
+        <circle cx="40" cy="50" r="40" fill="#9B59B6" >
+    </svg>
+
+    **Secondary Purple**
+
+    * To be used for main buttons and links
+    * Hex: "#9B59B6"
+
+    <svg height="100" width="100">
+        <circle cx="40" cy="50" r="40" fill="#272525" >
+    </svg>
+
+    **Secondary Dark Gray**
+
+    * To be used for secondary buttons 
+    * Hex: "#272525"
+
 
 # Heading 1
 
@@ -53,5 +156,6 @@ should be used to number steps of procedures.
 
 ## Images and Screenshots
 
-### Captions
->>>>>>> 5d7fa3d50efed90db827ec3fb5df6e8607aaf8f1
+## Captions
+
+## Voice and Style
