@@ -156,6 +156,27 @@ should be used to number steps of procedures.
 
 ## Images and Screenshots
 
+### images will:
+- be taken as screenshots of Firefox
+- provide relevant context, the reader should be able to identify the screenshot without previous context.
+- Highlights will use a red box of 2px width.
+    - example of red box:
+    ![Red box example](images/RedBoxExample.jpg)
+- Left aligned
+- Put in the images folder
+
 ## Captions
+- Image captions will use the `<figcaption>` html tag.
+- Image must be wrapped in a `<figure>` html tag.
+- Image must use a `<img>` html tag.
+<figure>
+<img src="../images/Example.jpg" alt="A example image.">
+<figcaption align = "center">A example image</figcaption>
+</figure>
+
+
 
 ## Voice and Style
+
+Friendly and professional tone.
+Language should not be passive
