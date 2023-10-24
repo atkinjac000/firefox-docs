@@ -2,6 +2,9 @@ site_name: Firefox Docs
 
 nav:
   - 'index.md'
+  - 'debugger.md'
+  - 'network.md'
+  - 'privacy-and-security.md'
   - 'style-guide.md'
 
 theme:
