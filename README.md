@@ -3,7 +3,7 @@
 ## Capabilities
 
 - Developer
-    - Inspector
+    - Inspector : Jacob C
     - Debugger : Gavin
     - Network : Jacob A
     - Style Editor
