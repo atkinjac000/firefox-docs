@@ -2,6 +2,7 @@ site_name: Firefox Docs
 
 nav:
   - 'index.md'
+  - 'inspector.md'
   - 'debugger.md'
   - 'network.md'
   - 'privacy-and-security.md'
