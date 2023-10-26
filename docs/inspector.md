@@ -10,43 +10,42 @@ There are 2 main ways to open the inspector
 - Click hamburger icon to the right of the searchbar. Then click More Tools > Web Developer Tools. The keyboard shortcut for this is ctl + shift + I
 
 <video style="width:100%; padding-bottom: 24px;" muted="" controls="" alt="type:video">
-   <source src="\videos\inspector_v1.mp4" type="video/mp4">
+   <source src="..\videos\inspector_v1.mp4" type="video/mp4">
 </video>
 
 - Right click on an html element and then click inspect. This opens the inspector with the element selected in the html pane. The keyboard shorcut for this is ctl + shift + C
 
 <video style="width:100%; padding-bottom: 24px;" muted="" controls="" alt="type:video">
-   <source src="\videos\inspector_v2.mp4" type="video/mp4">
+   <source src="..\videos\inspector_v2.mp4" type="video/mp4">
 </video>
 
 ## HTML pane
 The Inspector pannel is divided into 3 panes. In this section you will learn how to use the html pane. The html pane is highlighted in the image below.
 
-<img src="\images\inspector_1.png" />
-
+![](images/inspector_1.png)
 
 You can use this pane to view the html of the current webpage. While viewing the html you can click on the (insert icon here) next to an element to expand it and see its children. Clicking the (insert icon here) will collapse the element hiding all of its children.
 
 If you wish to easily find a specific dom element you can use the element finder tool. This is located at the top left of the pane. First click on the finder icon (insert icon here) and then click on the element you wish to select from the UI.
 
 <video style="width:100%; padding-bottom: 24px;" muted="" controls="" alt="type:video">
-   <source src="\videos\inspector_v3.mp4" type="video/mp4">
+   <source src="..\videos\inspector_v3.mp4" type="video/mp4">
 </video>
 
 If you wish to search for an element by something other than than the UI you can use the searchbar located near the top of the pane. You can search for specific text on the page, specific css classes or element ids. After typing in your query you can repeately click enter to scroll through the results.
 
-<img src="\images\inspector_2.png" />
+![](images/inspector_2.png)
 
 While using the inspector tool you can temporarily change anything in the html file. Changes will be reflected on the UI until the page is reloaded. This can be used to test small changes and when debugging the user interface.
 
 ## Rules pane
 The rules pane is located to the right of the html pane. It shows all the css classes that apply to a selected element on html pane. These classes include ones that are specified on the element as well as all the inherited classes.
 
-<img src="\images\inspector_3.png" />
+![](images/inspector_3.png)
 
 You can make changes to the styles and all changes will be reflected in the UI until reload. For example, we can inspect a webpages body tag and then apply a red background to it.
 
-<img src="\images\inspector_4.png" />
+![](images/inspector_4.png)
 
 We can also toggle specific rules by clicking the checkbox that appears next to a style on hover.
 
