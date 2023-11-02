@@ -2,22 +2,22 @@
 
 ## What this documentation assumes that you know
 
-- cookies
+- Cookies
 - Browsing history
 - Download history
 - Search history
 - Cache
 
-## getting to your Firefox privacy settings
+## Getting to your Firefox privacy settings
 
-### using the GUI
+### Using the GUI
 1. click on the hamburger menu on the top right of Firefox.
 2. click on Settings
 ![Navigation to settings using the GUI](images/settings-using-gui.png)
 3. Click on the Privacy & Security option in the left side navigation.
 ![navigation to privacy settings](images/settings-to-privacy.png)
 
-### using the search bar
+### Using the search bar
 1. type about:preferences into the search bar.
 ![navigation to settings using the search bar](images/settings-using-search-bar.png)
 2. Click on the Privacy & Security option in the left side navigation.
@@ -73,7 +73,7 @@ If you encounter a website that isn't working look at the [troubleshooting secti
 
 ### Enabling Enhanced Tracking Protection - Strict Mode
 
-1. [Navigate to your privacy settings](getting-to-your-firefox-privacy-settings)
+1. [Navigate to your privacy settings](#getting-to-your-firefox-privacy-settings)
 2. Click the Strict Mode option in Enhanced Tracking Protection
 
 ![image showing the strict mode option](images/strict-mode.png)
@@ -84,7 +84,7 @@ If you are not using strict mode, where it is always enabled, you can enable [do
 
 ### Enabling Do not track
 
-1. [Navigate to your privacy settings](getting-to-your-firefox-privacy-settings)
+1. [Navigate to your privacy settings](#getting-to-your-firefox-privacy-settings)
 2. Click the always send do not track signal
 
 ![image showing the do not track option](images/do-not-track.png)
@@ -115,6 +115,18 @@ Here you can automatically clear data when you close firefox. The data you can c
 4. check the data you want to have cleared when firefox is closed.
 
 ![image of the clearing history settings](images/clear-history-settings-menu.png)
+
+## Troubleshooting
+
+What to do if a website is not working
+
+1. Click on the Shield Icon
+
+![Image of shield icon](images/ETP-shield.png)
+
+2. Click on the Enhanced Tracking Protection toggle
+
+![Image of toggle](images/ETP-toggle.png)
 
 ## Definitions
 
@@ -179,14 +191,19 @@ use cookies to keep users logged in, as they are usually more secure. Active log
 
 Form history is how Firefox remembers your username or address details that you have submitted on a website before. Form history can be used across different websites if the input tag has the same name. This is common with username inputs, many websites use username as the input tag name.
 
-### site settings
+<figure>
+<img src="../images/form_history.png" alt="Example of form history using a username field">
+<figcaption align = "center">Form history in a username field</figcaption>
+</figure>
+
+### Site settings
 
 Site settings are settings in Firefox that can be changed per site. A example is level of zoom. If you set your zoom on a website to 80% when you close and reopen Firefox that site will still be set to a 80% zoom. This also includes any site specific permissions, like pop-up blocking exceptions or access to your microphone.
 
-### offline website data
+### Offline website data
 
-small amounts of website data is stored automatically, this is typically for website settings. For large amounts of data Firefox will ask if you want to store the file. For example if you download a video on YouTube.com.
+Small amounts of website data is stored automatically, this is typically for website settings. For large amounts of data Firefox will ask if you want to store the file. For example if you download a video on YouTube.com.
 
-### email masks
+### Email masks
 
 A email mask is a separate email that forwards any mail it receives into your main mail box. If a service starts sending you junk emails then you can shut down the email mask that is only linked to that service. 
