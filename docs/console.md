@@ -58,3 +58,6 @@ Any errors with JavaScript code will appear in the console. These errors will ha
 ![Error Messages](images/errorMessages.png)
 
 When clicking on the line the code crashed, the code will be opened in the debugger. To learn more about the debugger,  [open the debugger page](debugger.md)
+
+
+<p align="center"><i>by Gavin Robey</i></p>

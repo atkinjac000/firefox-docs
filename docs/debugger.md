@@ -98,3 +98,5 @@ Notice how the value of "amount" goes from "unavailable" to "810" when stepping 
 
 ![Watch Expression Demo 2](images/watchExpressionsDemo3.png)
 
+<p align="center"><i>by Gavin Robey</i></p>
+
