@@ -3,11 +3,14 @@ markdown_extensions:
   toc:
 nav:
   - 'index.md'
+  - 'theming.md'
   - 'inspector.md'
+  - 'console.md'
   - 'debugger.md'
   - 'network.md'
   - 'privacy-and-security.md'
   - 'style-guide.md'
+  - 'back-matter.md'
 
 theme:
   name: readthedocs
