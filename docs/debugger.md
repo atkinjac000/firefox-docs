@@ -2,21 +2,21 @@
 
 The Firefox debugger is a robust tool for web developers, providing a wide range of features to help identify, analyze, and fix issues in web applications, making the development and debugging process more efficient and effective. The Debugger contains the following features: 
 
-1. **Code Debugging:** The primary purpose of the debugger is to help developers find and fix issues in their JavaScript code. You can set breakpoints in your code, pause execution at specific lines, and inspect the values of variables to understand how your code is behaving.
+- **Code Debugging:** The primary purpose of the debugger is to help developers find and fix issues in their JavaScript code. You can set breakpoints in your code, pause execution at specific lines, and inspect the values of variables to understand how your code is behaving.
 
-2. **Stepping Through Code:** You can step through your code execution line by line, allowing you to understand the flow and identify the exact location of bugs or unexpected behavior.
+- **Stepping Through Code:** You can step through your code execution line by line, allowing you to understand the flow and identify the exact location of bugs or unexpected behavior.
 
-3. **Live Editing:** Firefox's debugger allows you to modify your code while debugging through the watch expressions tool. This is particularly useful for quick testing and experimentation.
+- **Live Editing:** Firefox's debugger allows you to modify your code while debugging through the watch expressions tool. This is particularly useful for quick testing and experimentation.
 
-4. **Variable Inspection:** You can inspect the values of variables at different points in your code execution, helping you identify issues with variable values or data manipulation.
+- **Variable Inspection:** You can inspect the values of variables at different points in your code execution, helping you identify issues with variable values or data manipulation.
 
-5. **Call Stack and Call Hierarchy:** You can view the call stack to understand the path your code took to reach the current point. This helps in tracking the flow of function calls. Firefox also provides a call hierarchy feature, which allows you to explore the calls to and from a specific function.
+- **Call Stack and Call Hierarchy:** You can view the call stack to understand the path your code took to reach the current point. This helps in tracking the flow of function calls. Firefox also provides a call hierarchy feature, which allows you to explore the calls to and from a specific function.
 
-6. **Event Listener Breakpoints:** You can set breakpoints on specific DOM events or XMLHttpRequest calls, making it easier to catch issues related to event handling.
+- **Event Listener Breakpoints:** You can set breakpoints on specific DOM events or XMLHttpRequest calls, making it easier to catch issues related to event handling.
 
-7. **Console Interaction:** You can interact with the browser console directly from the debugger, which is useful for executing ad-hoc JavaScript commands or checking the output of your code.
+- **Console Interaction:** You can interact with the browser console directly from the debugger, which is useful for executing ad-hoc JavaScript commands or checking the output of your code.
 
-8. **Error Handling:** The debugger highlights and helps you understand JavaScript errors, making it easier to locate and resolve them.
+- **Error Handling:** The debugger highlights and helps you understand JavaScript errors, making it easier to locate and resolve them.
 
 
 ## Getting Started
