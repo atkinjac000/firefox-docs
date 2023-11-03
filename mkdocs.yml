@@ -1,6 +1,4 @@
 site_name: Firefox Docs
-markdown_extensions:
-  toc:
 nav:
   - 'index.md'
   - 'inspector.md'
