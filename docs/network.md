@@ -38,6 +38,28 @@ To disable the cache:
 3. Check the "Disable Cache" box.
     ![Disable cache](images/disable_cache.png)
 
+## Making New Requests
+
+The Network tab can be used to make new requests, this is especially useful to test
+URLs that accept HTTP methods other than GET. To send a new request using the Network
+tab:
+
+1. Open the Network tab in the developer
+tools (if you don't know how to do this, refer to the section "Disable the Cache").
+2. Just underneath the tab bar there is a bar full of widgets, click the plus button
+located just to the right of the search bar (shown below).
+![New Request Button](images/new_request.png)
+3. Set the HTTP request method using the drop down on the upper right side of the
+request tab that just opened up.
+![request method drop down](images/request_method.png)
+4. Type the request URL in the text box with "URL" next to the method dropdown.
+![request url textbox](images/request_url.png)
+5. Set the URL Parameters, Headers, and Body content using the fields below.
+![request parameters](images/request_parameters.png)
+6. Hit the Send button at the bottom of the tab.
+![send request](images/send_request.png)
+
+
 ## Filter Requests
 
 ### By File Type
@@ -146,4 +168,27 @@ tools (if you don't know how to do this, refer to the section "Disable the Cache
 3. Right-click on any request in the list and select "Block URL" from the context menu.
 ![Request list context menu](images/block_url.png)
 
+## Save and Load Sessions
 
+If you want to save your debugging session to come back to it later or try to reproduce
+it on another machine it can be useful to save a recording of the session as a
+HAR (HTTP Archive) file. 
+
+To save the session:
+
+1. Open the Network tab in the developer
+tools (if you don't know how to do this, refer to the section "Disable the Cache").
+2. Click the gear icon in the top right corner of the tab.
+![Gear icon](images/gear_icon.png)
+3. Click the "Save All as HAR" option, and choose an appropriate location to save the file to on your device.
+![Save all as HAR](images/save_har.png)
+
+
+To load a session from a HAR file:
+
+1. Open the Network tab in the developer
+tools (if you don't know how to do this, refer to the section "Disable the Cache").
+2. Click the gear icon in the top right corner of the tab.
+![Gear icon](images/gear_icon.png)
+3. Click the "Import HAR File" option, and select the HAR file you wish to load from your device.
+![Import HAR](images/import_har.png)

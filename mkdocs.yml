@@ -1,6 +1,4 @@
 site_name: Firefox Docs
-markdown_extensions:
-  toc:
 nav:
   - 'index.md'
   - 'theming.md'
@@ -9,6 +7,7 @@ nav:
   - 'debugger.md'
   - 'network.md'
   - 'privacy-and-security.md'
+  - 'accessibility.md'
   - 'style-guide.md'
   - 'back-matter.md'
 
