@@ -24,9 +24,9 @@ The Inspector pannel is divided into 3 panes. In this section you will learn how
 
 ![](images/inspector_1.png)
 
-You can use this pane to view the html of the current webpage. While viewing the html you can click on the (insert icon here) next to an element to expand it and see its children. Clicking the (insert icon here) will collapse the element hiding all of its children.
+You can use this pane to view the html of the current webpage. While viewing the html you can click the ▼ next to an element to expand it and see its children. Clicking the ▲ will collapse the element hiding all of its children.
 
-If you wish to easily find a specific dom element you can use the element finder tool. This is located at the top left of the pane. First click on the finder icon (insert icon here) and then click on the element you wish to select from the UI.
+If you wish to easily find a specific dom element you can use the element finder tool. This is located at the top left of the pane. First click on the finder icon (in the left corner of dev tools) and then click on the element you wish to select from the UI.
 
 <video style="width:100%; padding-bottom: 24px;" muted="" controls="" alt="type:video">
    <source src="..\videos\inspector_v3.mp4" type="video/mp4">
@@ -49,19 +49,19 @@ You can make changes to the styles and all changes will be reflected in the UI u
 
 We can also toggle specific rules by clicking the checkbox that appears next to a style on hover.
 
-(insert image here)
+![](images/inspector_5.png)
 
 Various tools are located at the top of the pane. We can use the filter bar to search for specific rules. Clicking :hov allows us to toggle specific psuedo classes and .cls to toggle classes. The plus button next to those can be used to start generating a new rule. The sun and moon icons can be clicked to switch between light and dark mode. Keep in mind not all websites have a theme defined for dark mode so this may not always appear to do much. Clicking the last icon will change the UI to reflect how it will look when printing the screen.
 
 ## Layout Pane
 The layout pane can be used analyse the different grid layouts used on the page as well as the flex and box model of the selected dom element.
 
-(insert image here)
+![](images/inspector_6.png)
 
 ## Other features
 You can turn the Layout pane into one of many other tools. These are all inspector tools but used less frequently. This section gives a brief summary of what each does.
 
-(insert image here)
+![](images/inspector_7.png)
 
 Computed: This tool shows the computed styles for the selected html element. These are the final values applied by the browser.
 
