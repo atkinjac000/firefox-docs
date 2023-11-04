@@ -3,6 +3,7 @@ nav:
   - 'index.md'
   - 'introduction.md'
   - 'theming.md'
+  - 'extensions.md'
   - 'inspector.md'
   - 'console.md'
   - 'debugger.md'

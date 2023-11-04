@@ -7,7 +7,7 @@ Inspector is a powerful tool and is frequently used during front end web develop
 
 There are 2 main ways to open the inspector
 
-- Click hamburger icon to the right of the searchbar. Then click More Tools > Web Developer Tools. The keyboard shortcut for this is ctl + shift + I
+- Click hamburger icon to the right of the searchbar. (near the top right of the browser) Then click More Tools > Web Developer Tools. The keyboard shortcut for this is ctl + shift + I
 
 <video style="width:100%; padding-bottom: 24px;" muted="" controls="" alt="type:video">
    <source src="..\videos\inspector_v1.mp4" type="video/mp4">
