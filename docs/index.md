@@ -31,6 +31,7 @@ With its unwavering commitment to open-source principles, Firefox fosters a comm
 ## Pages / Table of Contents
 - [Introduction](introduction.md)
 - [Theming](theming.md)
+- [Extensions](extensions.md)
 - [Inspector](inspector.md)
 - [Console](console.md)
 - [Debugger Tools](debugger.md)

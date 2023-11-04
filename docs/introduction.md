@@ -11,6 +11,8 @@ To begin with, we were all somewhat familiar with the Firefox developer tools. H
 
 ## Audience
 
+Our documentation is targeted at power users and developers. Some of the documentation is more focused on the power user audience, for example privacy and security. 
+
 ## Content
 Each of us had to do some research when putting together the documentation. None of us were experts at using firefox so we had to become familiar with the tooling and features it provides before we could write documentation about it. We included many images and some videos along with text to better help the reader visualize important content. Visualizing the documentation helps the reader learn how to navigate firefox and use the tooling better.  We couldn’t fit all of the tooling into the documentation so we each picked a couple tools that we thought would be most useful for our audience. Our audience was firefox power users and developers, with this in mind we added content beyond the simple "search for a website and browse the web".
 
